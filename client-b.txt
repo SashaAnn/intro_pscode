@@ -1,4 +1,14 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+1. User inputs objective within warehouse.
+2. Determine location of objective relative to user's location.
+3. Instruct user to move x direction for N amount of steps.
+    define x = north, south, east, west
+    define N = number of steps
 
+4. Move x direction for N amount of steps until user has reached destination.
+    print "You are here"
+
+5. User has arrived at location
+    print "Exit" or "New"

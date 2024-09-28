@@ -1,4 +1,13 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Start
+count = 2 to 50 increment by 2
 
+    if 50 then
+        print "Case complete."
+        print "Start new."
+    else
+        count + 2
+
+End

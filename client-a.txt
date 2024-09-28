@@ -1,4 +1,31 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Start
+guessnum = (Random 1, 10)
+maximumattempt = 3
+
+print "Pick a number 1 through 10"
+
+first attempt:
+if number = 8 then
+    print "You win!"
+else
+    print "Try again!"
+
+second attempt:
+if number = 8 then
+    print "You win!"
+else
+    print "Last chance!"
+
+third attempt:
+if number = 8 then
+    print "Winner, Winner!"
+else
+    print "You lose!"
+    
+print "Game Over"
+
+End
 
